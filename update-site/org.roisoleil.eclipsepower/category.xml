@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="windows-native-context-menu-feature" os="win32">
+      <category name="org.roisoleil.eclipse-power"/>
+   </feature>
+   <category-def name="org.roisoleil.eclipse-power" label="Eclipse Power"/>
+</site>
